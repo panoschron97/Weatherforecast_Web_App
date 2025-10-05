@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DczONLWnsHk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\panos\\Desktop\\C#_ASP_NET_Web_App\\C#_ASP_NET_Web_App\\C#_ASP_NET_Web_App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\panos\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\panos\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
