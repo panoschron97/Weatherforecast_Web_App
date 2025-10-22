@@ -2,7 +2,7 @@
 
 ## Project Description
 
-The Weatherforecast Web App is a simple ASP.NET Core web application that provides a weather forecast API. It showcases a basic controller, model and configuration setup for a .NET web application. This project serves as a starting point for building more complex web services using .NET.
+The Weatherforecast Web App is a simple ASP.NET Core web application that provides a weather forecast API. It showcases a basic controller model and configuration setup for a .NET web application. This project serves as a starting point for building more complex web services using .NET.
 
 ## Key Features
 
